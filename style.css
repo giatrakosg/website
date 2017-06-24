@@ -1,0 +1,68 @@
+/* Color scheme */
+/* Pale Gold: #C0B283 */
+/* SILK : #DCD0C0 */
+/* PAPER :#F4F4F4 */
+/* CHARCOAL : #373737 */
+
+#header {
+    background-color: #C0B283 ;
+    color :white;
+    text-align: center;
+
+    border-style: solid;
+    border-width: medium;
+    border-color: #DCD0C0;
+}
+body {
+    background-color: #F4F4F4;
+}
+
+#container {
+    background-color: #F4F4F4;
+    margin-left: auto ;
+    margin-right: auto;
+    width: 1000px ;
+
+}
+
+#content {
+        background-color: #b7a872 ;
+        padding: 10px;
+
+        border-style: solid;
+        border-width: medium;
+        border-color: #C0B283;
+}
+#main {
+    background-color: #DCD0C0;
+    float: right;
+    width: 700px;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: #C0B283;
+
+}
+#empty {
+    clear: both;
+}
+#Nav {
+    width: 240px;
+    float: left;
+
+    background-color: #DCD0C0 ;
+    border-style: solid;
+    border-width: medium;
+    border-color: #C0B283;
+
+}
+#footer {
+    clear: both;
+    background-color: #C0B283 ;
+    color :white;
+    text-align: left;
+
+    border-style: solid;
+    border-width: small;
+    border-color: #DCD0C0;
+}
